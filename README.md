@@ -1,16 +1,22 @@
-## Hi there 👋
+## 안녕하세요 수오재입니다 👋
 
-<!--
-**suojae/suojae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### ✅ 테스트 코드 작성 및 자동화 시스템 구축을 중요하게 생각합니다. 효율적인 개발 프로세스에 대해 고민하는 개발자입니다. <br/>
 
-Here are some ideas to get you started:
+#### 📚 기술 서적 읽기를 좋아합니다. 독서를 통해 깊이를 더하는 것에 즐거움을 느낍니다. <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+#
+
+### Main Tech Stack
+
+
+[![My Skills](https://skillicons.dev/icons?i=flutter,nestjs,aws&theme=light)](https://skillicons.dev)<br/>
+
+<br/>
+
+#
+
+### PS 
+
+![example calendar 2](https://leetcode-solved-problems.vercel.app/api?username=suojae3&name=suojae&type=calendar&bolder=true&title=true)
