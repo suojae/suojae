@@ -20,4 +20,3 @@
 ### PS 
 
 ![example calendar 2](https://leetcode-solved-problems.vercel.app/api?username=suojae3&name=suojae&type=calendar&bolder=true&title=true)
-[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=suojae3)](https://github.com/ignacio-cuadra/github-readme-codewars)
