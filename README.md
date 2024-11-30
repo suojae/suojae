@@ -26,6 +26,7 @@
 
 #### 🦁 NestJS
 - [NestJS에서의 Dependency Injection 살펴보기](https://ssuojae.tistory.com/334)
+- [NestJS 데코레이터 동작원리 이해하기](https://ssuojae.tistory.com/330)
 - [Refresh Token 관리하기](https://ssuojae.tistory.com/348)
 
 #### ☁️ AWS
