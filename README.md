@@ -25,6 +25,7 @@
 - [Don't use 'BuildContext's across async gaps 이슈](https://ssuojae.tistory.com/270)
 
 #### 🦁 NestJS
+- [NestJS에서의 Dependency Injection 살펴보기](https://ssuojae.tistory.com/334)
 - [Refresh Token 관리하기](https://ssuojae.tistory.com/348)
 
 #### ☁️ AWS
