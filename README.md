@@ -11,7 +11,8 @@
 ### Main Tech Stack
 
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,nestjs,aws&theme=light)](https://skillicons.dev) <img src="https://github.com/user-attachments/assets/1c50b3aa-d570-4b0e-9944-ced2115adb9a" width="57">
+[![My Skills](https://skillicons.dev/icons?i=flutter,nestjs,aws&theme=light)](https://skillicons.dev) <br/>
+<img src="https://github.com/user-attachments/assets/1c50b3aa-d570-4b0e-9944-ced2115adb9a" width="60">
 
 <br/>
 
