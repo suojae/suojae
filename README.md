@@ -6,22 +6,36 @@
 
 <br/>
 
-#
+<h3>🚀 Focused Tech Stack</h3>
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@8.5.0/icons/react.svg" width="30" /></td>
+    <td><b>React Native</b></td>
+    <td>Cross-platform mobile development framework</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@8.5.0/icons/nestjs.svg" width="30" /></td>
+    <td><b>NestJS</b></td>
+    <td>Backend framework for scalable applications</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@8.5.0/icons/amazonaws.svg" width="30" /></td>
+    <td><b>AWS</b></td>
+    <td>Cloud platform for hosting and deployment</td>
+  </tr>
+</table>
 
-### Main Tech Stack
 
-
-[![My Skills](https://skillicons.dev/icons?i=flutter,nestjs,aws&theme=light)](https://skillicons.dev) 
 <br/>
 
 #
 
-### Open Source Contributions
+### 🌍 Open Source Contributions
 
 <br/>
 
 #
 
-### PS 
+### 🧩 PS
 
 ![example calendar 2](https://leetcode-solved-problems.vercel.app/api?username=suojae3&name=suojae&type=calendar&bolder=true&title=true)
