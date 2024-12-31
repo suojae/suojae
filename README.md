@@ -16,7 +16,7 @@
   <tr>
     <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@8.5.0/icons/nestjs.svg" width="30" /></td>
     <td><b>NestJS</b></td>
-    <td>Backend framework for scalable applications</td>
+    <td>Node.js backend framework for building efficient applications</td>
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@8.5.0/icons/amazonaws.svg" width="30" /></td>
