@@ -6,7 +6,7 @@
 
 <br/>
 
-<h3>🚀 Focused Tech Stack</h3>
+<h3>Focused Tech Stack</h3>
 <table>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@8.5.0/icons/react.svg" width="30" /></td>
@@ -30,12 +30,12 @@
 
 #
 
-### 🌍 Open Source Contributions
+### Open Source Contributions
 
 <br/>
 
 #
 
-### 🧩 PS
+### PS
 
 ![example calendar 2](https://leetcode-solved-problems.vercel.app/api?username=suojae3&name=suojae&type=calendar&bolder=true&title=true)
