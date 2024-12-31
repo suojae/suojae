@@ -9,8 +9,8 @@
 <h3>Focused Tech Stack</h3>
 <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@8.5.0/icons/react.svg" width="30" /></td>
-    <td><b>React Native</b></td>
+    <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@8.5.0/icons/flutter.svg" width="30" /></td>
+    <td><b>Flutter</b></td>
     <td>Cross-platform mobile development framework</td>
   </tr>
   <tr>
@@ -24,7 +24,6 @@
     <td>Cloud platform for hosting and deployment</td>
   </tr>
 </table>
-
 
 <br/>
 
