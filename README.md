@@ -31,6 +31,12 @@
 
 ### Open Source Contributions  
 
+
+📌 **Drift**  
+&nbsp;&nbsp;&nbsp;&nbsp; [feature: Add dispose method to DatabaseTracker for resource management](https://github.com/simolus3/drift/pull/3420)
+
+<br/>
+
 📌 **Hashicorp - Terraform CDK**  
 &nbsp;&nbsp;&nbsp;&nbsp; [fix(lib): correct the concat method in TokenizedStringFragments](https://github.com/hashicorp/terraform-cdk/pull/3772)
 
