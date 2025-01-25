@@ -6,16 +6,6 @@
 
 <br/>
 
-
-### Hello, I'm Suojae 👋
-
-#### 🚀 I'm a **Flutter mobile developer** with endless ideas for things I want to build :) <br/>
-
-#### 📚 I enjoy reading technical books and love delving into the depths of knowledge. <br/>
-
-
-<br/>
-
 #
 
 <h3>Focused Tech Stack</h3>
