@@ -71,7 +71,7 @@
 
 📌 **GlassMorphicLoader**  
 
-&nbsp;&nbsp;&nbsp;&nbsp;A Flutter package to create visually appealing loaders with glassmorphic effects and smooth animations. - [View on Pub.dev]() 
+&nbsp;&nbsp;&nbsp;&nbsp;A Flutter package to create visually appealing loaders with glassmorphic effects and smooth animations. - [View on Pub.dev](https://github.com/suojae) 
 
 
 
