@@ -1,8 +1,17 @@
-## 안녕하세요 수오재입니다 👋
+### 안녕하세요, 수오재입니다 👋
 
-#### 🚀 만들고 싶은게 많은 Flutter 모바일 개발자입니다 :) <br/>
+#### 🚀 만들고 싶은 것이 많은 **Flutter 모바일 개발자**입니다 :) <br/>
 
-#### 📚 기술 서적 읽기를 좋아합니다. 독서를 통해 깊이를 더하는 것에 즐거움을 느낍니다. <br/>
+#### 📚 **기술 서적 읽기**를 좋아하며, 독서를 통해 깊이 있는 학습과 성장을 추구하고 있습니다. <br/>
+
+<br/>
+
+
+### Hello, I'm Suojae 👋
+
+#### 🚀 I'm a **Flutter mobile developer** with endless ideas for things I want to build :) <br/>
+
+#### 📚 I enjoy reading **technical books** and love delving into the depths of knowledge for continuous learning and growth. <br/>
 
 <br/>
 
