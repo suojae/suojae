@@ -31,6 +31,13 @@
 
 ### Open Source Contributions  
 
+<br/>
+
+📌 **Melos**  
+&nbsp;&nbsp;&nbsp;&nbsp; [refactor: optimize clean command by precomputing paths to clean](https://github.com/invertase/melos/pull/855)
+
+
+<br/>
 
 📌 **Drift**  
 &nbsp;&nbsp;&nbsp;&nbsp; [feature: Add dispose method to DatabaseTracker for resource management](https://github.com/simolus3/drift/pull/3420)
