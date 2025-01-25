@@ -13,7 +13,10 @@
 
 #### 📚 I enjoy reading **technical books** and love delving into the depths of knowledge for continuous learning and growth. <br/>
 
+
 <br/>
+
+#
 
 <h3>Focused Tech Stack</h3>
 <table>
