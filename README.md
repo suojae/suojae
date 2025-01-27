@@ -50,21 +50,3 @@
 &nbsp;&nbsp;&nbsp;&nbsp; [fix(lib): correct the concat method in TokenizedStringFragments](https://github.com/hashicorp/terraform-cdk/pull/3772)
 
 
-
-<br/>
-
-#
-
-### Open Source Flutter Packages
-
-<br/>
-
-📌 **GlassMorphicLoader**  
-
-&nbsp;&nbsp;&nbsp;&nbsp;A Flutter package to create visually appealing loaders with glassmorphic effects and smooth animations. - [View on Pub.dev](https://github.com/suojae) 
-
-
-
-
-
-
