@@ -35,6 +35,11 @@
 
 <br/>
 
+📌 **Dio**  
+&nbsp;&nbsp;&nbsp;&nbsp; [Fix: Resolve ListParam equality issue for caching identical requests](https://github.com/cfug/dio/pull/2366)
+
+<br/>
+
 📌 **Melos**  
 &nbsp;&nbsp;&nbsp;&nbsp; [refactor: optimize clean command by precomputing paths to clean](https://github.com/invertase/melos/pull/855)
 
