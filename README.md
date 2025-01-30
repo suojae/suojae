@@ -56,3 +56,14 @@
 
 <br/>
 
+#
+### Open Source Flutter Packages
+
+<br/>
+
+📌 **Jelly Blob**  
+[View on Pub.dev](https://github.com/suojae) | [GitHub Repository](https://github.com/suojae/jelly-blob)
+
+<br/>
+
+
