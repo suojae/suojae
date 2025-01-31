@@ -55,16 +55,3 @@
 &nbsp;&nbsp;&nbsp;&nbsp; [fix(lib): correct the concat method in TokenizedStringFragments](https://github.com/hashicorp/terraform-cdk/pull/3772)
 
 <br/>
-
-#
-
-### Open Source Projects
-
-<br/>
-
-📦 **Jelly Blob**  
-&nbsp;&nbsp;&nbsp;&nbsp; [View on Pub.dev](https://github.com/suojae) | [GitHub Repository](https://github.com/suojae/jelly-blob)
-
-<br/>
-
-
