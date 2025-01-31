@@ -51,7 +51,7 @@
 
 <br/>
 
-📌 **Hashicorp - Terraform CDK**  
+📌 **Terraform CDK**  
 &nbsp;&nbsp;&nbsp;&nbsp; [fix(lib): correct the concat method in TokenizedStringFragments](https://github.com/hashicorp/terraform-cdk/pull/3772)
 
 <br/>
