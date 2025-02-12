@@ -45,4 +45,22 @@
 | **Drift**     | [feature: Add dispose method to DatabaseTracker for resource management](https://github.com/simolus3/drift/pull/3420) |
 | **Terraform CDK** | [fix(lib): correct the concat method in TokenizedStringFragments](https://github.com/hashicorp/terraform-cdk/pull/3772) |
 
-<br/>
+#
+
+### Side Projects
+
+#### 📱 Deployed Projects
+
+| Project       | Description | Live Link |
+|--------------|-------------|-----------|
+| **Rubbit** |  | [🍎 App Store]() / [🤖 Google Play]() |
+
+
+#### 🛠 Mini Projects
+
+| Project       | Description | Repository | 
+|--------------|-------------| -------------|
+| **Fire Walker** || [RepositoryLink]() | 
+| **Medi Habit** |  | [RepositoryLink]() | 
+| **iOS Mini Projects** |   | [RepositoryLink]()  |
+
