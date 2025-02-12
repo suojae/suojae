@@ -31,7 +31,7 @@
 
 #### 📱 Deployed Projects
 
-| Project       | Description | Live Link |
+| Project       | Description | Link |
 |--------------|-------------|-----------|
-| **Rubbit** |  | [🍎 App Store]() / [🤖 Google Play]() |
-| **찾아줄개** |  | [🍎 App Store]() |
+| **Rubbit** |  | [App Store]() / [Google Play]() |
+| **찾아줄개** |  | [App Store](https://apps.apple.com/id/app/%EC%B0%BE%EC%95%84%EC%A4%84%EA%B0%9C/id6471409178) |
