@@ -54,3 +54,4 @@
 | Project       | Description | Live Link |
 |--------------|-------------|-----------|
 | **Rubbit** |  | [🍎 App Store]() / [🤖 Google Play]() |
+| **찾아줄개** |  | [🍎 App Store]() |
