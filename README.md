@@ -54,13 +54,3 @@
 | Project       | Description | Live Link |
 |--------------|-------------|-----------|
 | **Rubbit** |  | [🍎 App Store]() / [🤖 Google Play]() |
-
-
-#### 🛠 Mini Projects
-
-| Project       | Description | Repository | 
-|--------------|-------------| -------------|
-| **Fire Walker** || [RepositoryLink]() | 
-| **Medi Habit** |  | [RepositoryLink]() | 
-| **iOS Mini Projects** |   | [RepositoryLink]()  |
-
