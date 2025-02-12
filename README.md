@@ -29,7 +29,7 @@
 
 ### Side Projects
 
-#### 📱 Deployed Projects
+#### 📱 Deployed Mobile Apps
 
 | App      | Description | Link |
 |--------------|-------------|-----------|
