@@ -6,26 +6,6 @@
 
 #
 
-<h3>Focused Tech Stack</h3>
-<table>
-  <tr>
-    <td><img src="https://img.icons8.com/color/48/000000/flutter.png" width="30" height="30" /></td>
-    <td><b>Flutter</b></td>
-    <td>Cross-platform mobile development framework</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.icons8.com/color/48/000000/nestjs.png" width="30" height="30" /></td>
-    <td><b>NestJS</b></td>
-    <td>Node.js backend framework for building efficient applications</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="30" height="30" /></td>
-    <td><b>AWS</b></td>
-    <td>Cloud platform for hosting and deployment</td>
-  </tr>
-</table>
-
-#
 
 ### Open Source Activities 
 
