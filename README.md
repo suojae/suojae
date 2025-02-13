@@ -33,6 +33,4 @@
 
 | App      | Description | Link |
 |--------------|-------------|-----------|
-| **Rubbit** | AI-powered emotional diary service | [App Store]() / [Google Play]() |
-| **Fire Walker** | Real-time step competition service | [App Store]() / [Google Play]() |
 | **찾아줄개** | App for finding lost pets | [App Store](https://apps.apple.com/id/app/%EC%B0%BE%EC%95%84%EC%A4%84%EA%B0%9C/id6471409178) |
