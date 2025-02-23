@@ -13,7 +13,7 @@
 
 | Package       | Description |
 |--------------|-------------|
-| **Jelly Blob** | [A Flutter package for smooth jelly-like blob animation]() |
+| **Jelly Blob** | [A Flutter package for smooth jelly-like blob animation](https://pub.dev/packages/jelly_blob) |
 
 
 #### 🌟 Contributions
