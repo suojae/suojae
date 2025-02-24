@@ -42,10 +42,10 @@
 
 | 프로젝트명        | 설명 | 레포지토리 |
 |---------------|-------------|------------|
-| **Raku Chat** | STOMP & WebSocket 을 적용한 Flutter용 오픈소스 채팅 SDK,  | [GitHub](https://github.com/suojae/raku-frontend) |
-| **Fire Walker** | gRPC 기반의 걸음 추적 및 게이미피케이션 도입 프로젝트 | [GitHub](https://github.com/suojae/fire-walker-backend) |
-| **Bank Manager** | iOS 동시성과 비동기 처리 프로젝트 | [GitHub](https://github.com/suojae/ios-bank-manager) |
-| **Box Office** | 네트워크 및 클린 아키텍처를 기반 영화 순위 앱 | [GitHub](https://github.com/suojae/ios-box-office) |
+| **Raku Chat** | STOMP & WebSocket 을 적용한 Flutter용 오픈소스 채팅 SDK  | [GitHub](https://github.com/suojae/raku-frontend) |
+| **Fire Walker** | gRPC 기반 만보기 앱  | [GitHub](https://github.com/suojae/fire-walker-backend) |
+| **Bank Manager** | iOS 동시성과 비동기 처리 중점 프로젝트 | [GitHub](https://github.com/suojae/ios-bank-manager) |
+| **Box Office** | 네트워크 및 클린 아키텍처에 중점을 둔 영화 순위 앱 프로젝트 | [GitHub](https://github.com/suojae/ios-box-office) |
 | **Contact Manager** | MVVM-C 아키텍처를 적용한 iOS 연락처 관리 앱 | [GitHub](https://github.com/suojae/ios-contact-manager-ui) |
 | **Juice Maker** | iOS의 의존성 관리 및 DI 개념 학습 프로젝트 | [GitHub](https://github.com/suojae/ios-juice-maker) |
 | **Rock Scissor Paper** | iOS 링크드 리스트를 활용해 구현한 가위바위보 게임 | [GitHub](https://github.com/suojae/ios-rock-scissor-paper) |
