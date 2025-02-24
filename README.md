@@ -42,5 +42,5 @@
 | iOS | **Bank Manager** | iOS 동시성, 비동기 처리 중점 프로젝트 | [GitHub](https://github.com/suojae/ios-bank-manager) |
 | iOS | **Box Office** | 네트워크 및 클린 아키텍처에 중점 영화 순위 앱 프로젝트 | [GitHub](https://github.com/suojae/ios-box-office) |
 | iOS | **Contact Manager** | MVVM-C 아키텍처를 적용한 iOS 연락처 관리 앱 | [GitHub](https://github.com/suojae/ios-contact-manager-ui) |
-| iOS | **Juice Maker** | iOS의 의존성 관리 및 DI 개념 학습 프로젝트 | [GitHub](https://github.com/suojae/ios-juice-maker) |
+| iOS | **Juice Maker** | iOS DI 적용 프로젝트 | [GitHub](https://github.com/suojae/ios-juice-maker) |
 | iOS | **Rock Scissor Paper** | iOS 링크드 리스트를 활용해 구현한 가위바위보 게임 | [GitHub](https://github.com/suojae/ios-rock-scissor-paper) |
