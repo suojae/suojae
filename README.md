@@ -40,7 +40,7 @@
 | Flutter | **Raku Chat** | STOMP & WebSocket을 적용한 Flutter용 오픈소스 채팅 SDK  | [GitHub](https://github.com/suojae/raku-frontend) |
 | Flutter, NestJS | **Fire Walker** | gRPC 기반 만보기 앱  | [GitHub](https://github.com/suojae/fire-walker-backend) |
 | iOS | **Bank Manager** | iOS 동시성, 비동기 처리 중점 프로젝트 | [GitHub](https://github.com/suojae/ios-bank-manager) |
-| iOS | **Box Office** | 네트워크 캐싱 및 클린 아키텍처에 중점 영화 순위 앱 프로젝트 | [GitHub](https://github.com/suojae/ios-box-office) |
-| iOS | **Contact Manager** | MVVM-C 아키텍처를 적용한 iOS 연락처 관리 앱 | [GitHub](https://github.com/suojae/ios-contact-manager-ui) |
-| iOS | **Juice Maker** | iOS 전화번호부 프로젝트 | [GitHub](https://github.com/suojae/ios-juice-maker) |
+| iOS | **Box Office** | 네트워크 캐싱 및 클린 아키텍처 중점 프로젝트 | [GitHub](https://github.com/suojae/ios-box-office) |
+| iOS | **Contact Manager** | iOS 연락처 관리 프로젝트| [GitHub](https://github.com/suojae/ios-contact-manager-ui) |
+| iOS | **Juice Maker** | iOS 의존성 주입 중점 프로젝트 | [GitHub](https://github.com/suojae/ios-juice-maker) |
 | iOS | **Rock Scissor Paper** | iOS 링크드 리스트 활용 가위바위보 | [GitHub](https://github.com/suojae/ios-rock-scissor-paper) |
