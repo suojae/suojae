@@ -7,23 +7,20 @@
 #
 
 
-### Open Source Activities 
+#### 📦 Maintainer  
 
-#### 📦 Maintainer
+| Platform | Package       | Description |
+|----------|--------------|-------------|
+| Flutter  | **Jelly Blob** | [A Flutter package for smooth jelly-like blob animation](https://pub.dev/packages/jelly_blob) |
 
-| Package       | Description |
-|--------------|-------------|
-| **Jelly Blob** | [A Flutter package for smooth jelly-like blob animation](https://pub.dev/packages/jelly_blob) |
+#### 🌟 Contributions  
 
-
-#### 🌟 Contributions
-
-| Package        | Contribution |
-|---------------|-------------|
-| **Dio**       | [Fix: Resolve ListParam equality issue for caching identical requests](https://github.com/cfug/dio/pull/2366) |
-| **Melos**     | [refactor: optimize clean command by precomputing paths to clean](https://github.com/invertase/melos/pull/855) |
-| **Drift**     | [feature: Add dispose method to DatabaseTracker for resource management](https://github.com/simolus3/drift/pull/3420) |
-| **Terraform CDK** | [fix(lib): correct the concat method in TokenizedStringFragments](https://github.com/hashicorp/terraform-cdk/pull/3772) |
+| Platform | Package        | Contribution |
+|----------|---------------|-------------|
+| Flutter  | **Dio**       | [Fix: Resolve ListParam equality issue for caching identical requests](https://github.com/cfug/dio/pull/2366) |
+| Flutter  | **Melos**     | [refactor: optimize clean command by precomputing paths to clean](https://github.com/invertase/melos/pull/855) |
+| Flutter  | **Drift**     | [feature: Add dispose method to DatabaseTracker for resource management](https://github.com/simolus3/drift/pull/3420) |
+| Terraform | **Terraform CDK** | [fix(lib): correct the concat method in TokenizedStringFragments](https://github.com/hashicorp/terraform-cdk/pull/3772) |
 
 #
 
@@ -32,20 +29,18 @@
 #### 📱 Deployed Mobile Apps
 
 
-| 앱 이름      | 설명 | 링크 |
-|--------------|-------------|-----------|
-| **찾아줄개** | 잃어버린 반려동물 찾아주기 앱  | [App Store](https://apps.apple.com/id/app/%EC%B0%BE%EC%95%84%EC%A4%84%EA%B0%9C/id6471409178) |
+| 플랫폼 | 앱 이름      | 설명 | 링크 |
+|--------|--------------|-------------|-----------|
+| iOS | **찾아줄개** | 잃어버린 반려동물 찾아주기 앱  | [App Store](https://apps.apple.com/id/app/%EC%B0%BE%EC%95%84%EC%A4%84%EA%B0%9C/id6471409178) |
 
-<br/>
+#### 🎨 Toy Projects  
 
-#### 🎨 Toy Projects
-
-| 프로젝트명        | 설명 | 레포지토리 |
-|---------------|-------------|------------|
-| **Raku Chat** | STOMP & WebSocket 을 적용한 Flutter용 오픈소스 채팅 SDK  | [GitHub](https://github.com/suojae/raku-frontend) |
-| **Fire Walker** | gRPC 기반 만보기 앱  | [GitHub](https://github.com/suojae/fire-walker-backend) |
-| **Bank Manager** | iOS 동시성과 비동기 처리 중점 프로젝트 | [GitHub](https://github.com/suojae/ios-bank-manager) |
-| **Box Office** | 네트워크 및 클린 아키텍처에 중점을 둔 영화 순위 앱 프로젝트 | [GitHub](https://github.com/suojae/ios-box-office) |
-| **Contact Manager** | MVVM-C 아키텍처를 적용한 iOS 연락처 관리 앱 | [GitHub](https://github.com/suojae/ios-contact-manager-ui) |
-| **Juice Maker** | iOS의 의존성 관리 및 DI 개념 학습 프로젝트 | [GitHub](https://github.com/suojae/ios-juice-maker) |
-| **Rock Scissor Paper** | iOS 링크드 리스트를 활용해 구현한 가위바위보 게임 | [GitHub](https://github.com/suojae/ios-rock-scissor-paper) |
+| 플랫폼 | 프로젝트명        | 설명 | 레포지토리 |
+|--------|---------------|-------------|------------|
+| Flutter | **Raku Chat** | STOMP & WebSocket을 적용한 Flutter용 오픈소스 채팅 SDK  | [GitHub](https://github.com/suojae/raku-frontend) |
+| Flutter | **Fire Walker** | gRPC 기반 만보기 앱  | [GitHub](https://github.com/suojae/fire-walker-backend) |
+| iOS | **Bank Manager** | iOS 동시성, 비동기 처리 중점 프로젝트 | [GitHub](https://github.com/suojae/ios-bank-manager) |
+| iOS | **Box Office** | 네트워크 및 클린 아키텍처에 중점 영화 순위 앱 프로젝트 | [GitHub](https://github.com/suojae/ios-box-office) |
+| iOS | **Contact Manager** | MVVM-C 아키텍처를 적용한 iOS 연락처 관리 앱 | [GitHub](https://github.com/suojae/ios-contact-manager-ui) |
+| iOS | **Juice Maker** | iOS의 의존성 관리 및 DI 개념 학습 프로젝트 | [GitHub](https://github.com/suojae/ios-juice-maker) |
+| iOS | **Rock Scissor Paper** | iOS 링크드 리스트를 활용해 구현한 가위바위보 게임 | [GitHub](https://github.com/suojae/ios-rock-scissor-paper) |
