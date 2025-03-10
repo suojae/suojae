@@ -38,6 +38,7 @@
 | 플랫폼 | 프로젝트명        | 설명 | 레포지토리 |
 |--------|---------------|-------------|------------|
 | Flutter | **Raku Chat** | STOMP & WebSocket을 적용한 Flutter용 오픈소스 채팅 SDK  | [GitHub](https://github.com/suojae/raku-frontend) |
+| Flutter | **State Management** | 상태관리 패키지 비교분석 미니 프로젝트  | [GitHub](https://github.com/suojae/state-management) |
 | NodeJS | **Fire Walker** | gRPC 기반 만보기 앱  | [GitHub](https://github.com/suojae/fire-walker-backend) |
 | iOS | **Bank Manager** | 동시성, 비동기 처리 중점 프로젝트 | [GitHub](https://github.com/suojae/ios-bank-manager) |
 | iOS | **Box Office** | 네트워크 캐싱 및 클린 아키텍처 중점 프로젝트 | [GitHub](https://github.com/suojae/ios-box-office) |
