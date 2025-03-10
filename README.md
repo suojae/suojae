@@ -13,11 +13,12 @@
 |----------|--------------|-------------|
 | Flutter  | **Jelly Blob** | [A Flutter package for smooth jelly-like blob animation](https://pub.dev/packages/jelly_blob) |
 
-#### 🌟 Contributions  
+#### 🌟 Contributions
 
 | Platform | Package        | Contribution |
 |----------|---------------|-------------|
 | Flutter  | **Dio**       | [Fix: Resolve ListParam equality issue for caching identical requests](https://github.com/cfug/dio/pull/2366) |
+| Flutter  | **RxDart**    | [refactor: replaced Row + Column layout with ListTile](https://github.com/ReactiveX/rxdart/pull/789) |
 | Flutter  | **Melos**     | [refactor: optimize clean command by precomputing paths to clean](https://github.com/invertase/melos/pull/855) |
 | Flutter  | **Drift**     | [feature: Add dispose method to DatabaseTracker for resource management](https://github.com/simolus3/drift/pull/3420) |
 | Terraform | **Terraform CDK** | [fix(lib): correct the concat method in TokenizedStringFragments](https://github.com/hashicorp/terraform-cdk/pull/3772) |
