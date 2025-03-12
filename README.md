@@ -4,25 +4,6 @@
 
 #### 기술 서적 읽기를 좋아합니다. 독서를 통해 깊이를 더하는 것에 즐거움을 느낍니다 <br/>
 
-#
-
-### Blog Post
-
-<table>
-  <tr>
-    <td><strong>Dependency Injection의 의미 들여다보기 </strong></td>
-    <td><a href="https://suojae.site/252">링크</a></td>
-  </tr>
-  <tr>
-    <td><strong>어떻게 플러터는 변경된 위젯만 콕찝어서 다시 페인팅할 수 있는걸까?</strong></td>
-    <td><a href="https://ssuojae.tistory.com/376">링크</a></td>
-  </tr>
-  <tr>
-    <td><strong>Don't use 'BuildContext's across async gaps 이슈</strong></td>
-    <td><a href="https:////ssuojae.tistory.com/270">링크</a></td>
-  </tr>
-</table>
-
 
 #
 
@@ -43,6 +24,25 @@
 | Flutter  | **RxDart**    | [refactor: replaced Row + Column layout with ListTile](https://github.com/ReactiveX/rxdart/pull/789) |
 | Flutter  | **Melos**     | [refactor: optimize clean command by precomputing paths to clean](https://github.com/invertase/melos/pull/855) |
 | Flutter  | **Drift**     | [feature: Add dispose method to DatabaseTracker for resource management](https://github.com/simolus3/drift/pull/3420) |
+
+#
+
+### Blog Post
+
+<table>
+  <tr>
+    <td><strong>Dependency Injection의 의미 들여다보기 </strong></td>
+    <td><a href="https://suojae.site/252">링크</a></td>
+  </tr>
+  <tr>
+    <td><strong>어떻게 플러터는 변경된 위젯만 콕찝어서 다시 페인팅할 수 있는걸까?</strong></td>
+    <td><a href="https://ssuojae.tistory.com/376">링크</a></td>
+  </tr>
+  <tr>
+    <td><strong>Don't use 'BuildContext's across async gaps 이슈</strong></td>
+    <td><a href="https:////ssuojae.tistory.com/270">링크</a></td>
+  </tr>
+</table>
 
 #
 
