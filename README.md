@@ -18,8 +18,8 @@
     <td><a href="https://ssuojae.tistory.com/376">링크</a></td>
   </tr>
   <tr>
-    <td><strong>Web Socket 서버를 로드밸런싱 할 때 Sticky Session 대신 사용하는 3가지 방법</strong></td>
-    <td><a href="https://ssuojae.tistory.com/366">링크</a></td>
+    <td><strong>Don't use 'BuildContext's across async gaps 이슈</strong></td>
+    <td><a href="https:////ssuojae.tistory.com/270">링크</a></td>
   </tr>
 </table>
 
