@@ -10,7 +10,7 @@
 
 <table>
   <tr>
-    <td><strong>Dependency Injection 의 진짜 의미</strong></td>
+    <td><strong>Dependency Injection의 의미 들여다보기 </strong></td>
     <td><a href="https://suojae.site/252">링크</a></td>
   </tr>
   <tr>
