@@ -27,24 +27,6 @@
 
 #
 
-### Blog Post
-
-<table>
-  <tr>
-    <td><strong>Dependency Injection의 의미 들여다보기 </strong></td>
-    <td><a href="https://suojae.site/252">링크</a></td>
-  </tr>
-  <tr>
-    <td><strong>어떻게 플러터는 변경된 위젯만 콕찝어서 다시 페인팅할 수 있는걸까?</strong></td>
-    <td><a href="https://ssuojae.tistory.com/376">링크</a></td>
-  </tr>
-  <tr>
-    <td><strong>Don't use 'BuildContext's across async gaps 이슈</strong></td>
-    <td><a href="https:////ssuojae.tistory.com/270">링크</a></td>
-  </tr>
-</table>
-
-#
 
 ### Side Projects
 
