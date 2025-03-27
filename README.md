@@ -1,5 +1,8 @@
-### 안녕하세요, 수오재입니다 👋
-### Hello, I'm Suojae 👋
+### Hi, I'm Suojae 👋
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suojae&layout=compact)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suojae&show_icons=true&bg_color=00000000)
 
 #
 
