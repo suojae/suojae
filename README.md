@@ -1,7 +1,5 @@
 ### Hi, I'm Suojae 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suojae&layout=compact)
-
 ![Suojae's GitHub stats](https://github-readme-stats.vercel.app/api?username=suojae&show_icons=true&bg_color=00000000&hide=stars,contribs)
 
 #
