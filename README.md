@@ -18,6 +18,7 @@
 | Platform | Package        | Contribution |
 |----------|---------------|-------------|
 | Flutter  | **Dio**       | [Fix: Resolve ListParam equality issue for caching identical requests](https://github.com/cfug/dio/pull/2366) |
+| iOS  | **SwiftLint**       |[Fix: Ignore UIColor initializers in no_magic_numbers rule issue](https://github.com/realm/SwiftLint/pull/6035) |
 | Flutter  | **RxDart**    | [refactor: replaced Row + Column layout with ListTile](https://github.com/ReactiveX/rxdart/pull/789) |
 | Flutter  | **Melos**     | [refactor: optimize clean command by precomputing paths to clean](https://github.com/invertase/melos/pull/855) |
 | Flutter  | **Drift**     | [feature: Add dispose method to DatabaseTracker for resource management](https://github.com/simolus3/drift/pull/3420) |
