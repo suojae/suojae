@@ -23,9 +23,9 @@
 | Refactor | Flutter | **RxDart** | [replaced Row + Column layout with ListTile](https://github.com/ReactiveX/rxdart/pull/789) |
 | Refactor | Flutter | **Melos** | [optimize clean command by precomputing paths to clean](https://github.com/invertase/melos/pull/855) |
 | Feature | Flutter | **Drift** | [Add dispose method to DatabaseTracker for resource management](https://github.com/simolus3/drift/pull/3420) |
+| Fix | TypeScript | **Terraform CDK** | [Correct the concat method in TokenizedStringFragments](https://github.com/hashicorp/terraform-cdk/pull/3772) |
 
 #
-
 
 ### Side Projects
 
