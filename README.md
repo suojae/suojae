@@ -18,6 +18,7 @@
 | Type | Platform | Package | Contribution |
 |------|----------|---------|-------------|
 | Fix | iOS | **SwiftLint** | [Ignore UIColor initializers in no_magic_numbers rule issue](https://github.com/realm/SwiftLint/pull/6035) |
+| Fix | Dart | **dart-lang** | [Fix StreamGroup.broadcast() close() not completing when streams close.](https://github.com/dart-lang/core/pull/876#discussion_r2024875105) |
 | Fix | Flutter | **Flutter** | [Apply theme to text in _PackageListTile](https://github.com/flutter/flutter/pull/165739) |
 | Fix | Flutter | **Dio** | [Resolve ListParam equality issue for caching identical requests](https://github.com/cfug/dio/pull/2366) |
 | Refactor | Flutter | **RxDart** | [replaced Row + Column layout with ListTile](https://github.com/ReactiveX/rxdart/pull/789) |
