@@ -3,10 +3,7 @@
 ![Suojae's GitHub stats](https://github-readme-stats.vercel.app/api?username=suojae&show_icons=true&bg_color=00000000&hide=stars,contribs)
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/iOS-%23000000.svg?&style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-%233DDC84.svg?&style=for-the-badge&logo=android&logoColor=white" />
-</p>
+<p align="left"> <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Serverpod-3B82F6?style=for-the-badge&logo=serverless&logoColor=white" /> </p>
 
 #
 
