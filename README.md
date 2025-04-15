@@ -29,8 +29,6 @@
 | Fix | TypeScript | **Terraform CDK** | [Correct the concat method in TokenizedStringFragments](https://github.com/hashicorp/terraform-cdk/pull/3772) |
 
 
-<br/>
-
 #
 
 ### Published App
