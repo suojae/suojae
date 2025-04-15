@@ -28,3 +28,15 @@
 | Feature | Flutter | **Drift** | [Add dispose method to DatabaseTracker for resource management](https://github.com/simolus3/drift/pull/3420) |
 | Fix | TypeScript | **Terraform CDK** | [Correct the concat method in TokenizedStringFragments](https://github.com/hashicorp/terraform-cdk/pull/3772) |
 
+
+<br/>
+
+#
+
+### 📱 Published App
+
+
+| Platform | App | Description| 
+|------|----------|---------|
+| iOS | [**찾아줄개**](https://apps.apple.com/ma/app/%EC%B0%BE%EC%95%84%EC%A4%84%EA%B0%9C/id6471409178) | Collaborated on iOS app Team |
+
