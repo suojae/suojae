@@ -33,7 +33,7 @@
 
 #
 
-### 📱 Published App
+### Published App
 
 
 | Release Date | Platform | App | Description | 
