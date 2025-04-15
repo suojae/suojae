@@ -38,5 +38,5 @@
 
 | Platform | App | Description| 
 |------|----------|---------|
-| iOS | [**찾아줄개**](https://apps.apple.com/ma/app/%EC%B0%BE%EC%95%84%EC%A4%84%EA%B0%9C/id6471409178) | Collaborated on iOS app Team |
+| iOS | [**찾아줄개**](https://apps.apple.com/ma/app/%EC%B0%BE%EC%95%84%EC%A4%84%EA%B0%9C/id6471409178) | Participated in a team project to develop an SNS app that helps find lost pets.|
 
