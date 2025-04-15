@@ -36,6 +36,6 @@
 ### Published App
 
 
-| Release Date | Platform | App | Description | 
-|----------|-----|-------------|------|
-| 2023.12 | iOS | [**찾아줄개**](https://apps.apple.com/ma/app/%EC%B0%BE%EC%95%84%EC%A4%84%EA%B0%9C/id6471409178) | Joined a team project to build an SNS app for finding lost pets.  |
+| Release Date | Platform | App | App Store | Play Store | Description |
+|--------------|----------|-----|-----------|------------|-------------|
+| 2023.12 | iOS | 찾아줄개 | [Link](https://apps.apple.com/ma/app/%EC%B0%BE%EC%95%84%EC%A4%84%EA%B0%9C/id6471409178) | – | Joined a team project to build an SNS app for finding lost pets. |
