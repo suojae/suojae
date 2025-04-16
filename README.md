@@ -39,7 +39,7 @@ From architecture design to pixel-perfect UI, I focus on creating scalable and m
 ### Published App
 
 
-| Released In | Built With | App Store | Google Play | Description |
+| Released In | Built With | iOS | Android | Description |
 |----------|------------|-----------|------------|-------------|
-| 2025.04  | Flutter, Dart | [궁그미](https://apps.apple.com/kr/app/%EA%B6%81%EA%B7%B8%EB%AF%B8/id6743760411?l=en-GB) | [궁그미](https://play.google.com/store/apps/details?id=com.lazyheroez.loci&hl=en) | Joined a team project to build a location-based info sharing app.
-| 2023.12 | UIKit, Swift | [찾아줄개](https://apps.apple.com/kr/app/%EC%B0%BE%EC%95%84%EC%A4%84%EA%B0%9C/id6471409178?l=en-GB) | – | Joined a team project to build an SNS app for finding lost pets.
+| 2025.04  | Flutter, Dart |[궁그미](https://apps.apple.com/kr/app/%EA%B6%81%EA%B7%B8%EB%AF%B8/id6743760411?l=en-GB)| [궁그미](https://play.google.com/store/apps/details?id=com.lazyheroez.loci&hl=en) | Joined a team project to build a location-based info sharing app.
+| 2023.12 | UIKit, Swift |[찾아줄개](https://apps.apple.com/kr/app/%EC%B0%BE%EC%95%84%EC%A4%84%EA%B0%9C/id6471409178?l=en-GB)| – | Joined a team project to build an SNS app for finding lost pets.
