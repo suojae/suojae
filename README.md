@@ -27,7 +27,7 @@ From architecture design to pixel-perfect UI, I focus on creating scalable and m
 | Fix | Dart | **dart-lang/core** | [Fix StreamGroup.broadcast() close() not completing when streams close.](https://github.com/dart-lang/core/pull/876) |
 | Fix | Flutter | **Flutter** | [Apply theme to text in _PackageListTile](https://github.com/flutter/flutter/pull/165739) |
 | Fix | Swift | **SwiftLint** | [Ignore UIColor initializers in no_magic_numbers rule issue](https://github.com/realm/SwiftLint/pull/6035) |
-| Fix | Swift | **RxSwift** | [AsyncSequence.asObservable() runs on background thread](https://github.com/ReactiveX/RxSwift/pull/2662) |
+| Fix | Swift | **RxSwift** | [AsyncSequence.asObservable() effect is not as expected](https://github.com/ReactiveX/RxSwift/pull/2662) |
 | Fix | Flutter | **Dio** | [Resolve ListParam equality issue for caching identical requests](https://github.com/cfug/dio/pull/2366) |
 | Refactor | Flutter | **RxDart** | [replaced Row + Column layout with ListTile](https://github.com/ReactiveX/rxdart/pull/789) |
 | Refactor | Flutter | **Melos** | [optimize clean command by precomputing paths to clean](https://github.com/invertase/melos/pull/855) |
