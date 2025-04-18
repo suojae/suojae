@@ -37,7 +37,7 @@ From architecture design to pixel-perfect UI, I focus on creating scalable and m
 
 #
 
-### Published App
+### Published Side Project
 
 
 | Released In | Built With | iOS | Android | Description |
