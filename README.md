@@ -42,5 +42,6 @@ From architecture design to pixel-perfect UI, I focus on creating scalable and m
 
 | Released In | Built With | iOS | Android | Description |
 |----------|------------|-----------|------------|-------------|
+| WIP | Flutter, Dart | [Rubbit](https://github.com/suojae/rubbit_client) | | A personal project: mobile diary app that uses GPT API
 | 2025.04  | Flutter, Dart |[궁그미](https://apps.apple.com/kr/app/%EA%B6%81%EA%B7%B8%EB%AF%B8/id6743760411?l)| [궁그미](https://play.google.com/store/apps/details?id=com.lazyheroez.loci) | Joined a team project to build a location-based info sharing app.
 | 2023.12 | UIKit, Swift |[찾아줄개](https://apps.apple.com/kr/app/%EC%B0%BE%EC%95%84%EC%A4%84%EA%B0%9C/id6471409178?l)| – | Joined a team project to build an SNS app for finding lost pets.
