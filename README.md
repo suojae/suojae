@@ -1,12 +1,16 @@
 ### Hi, I'm Suojae 👋  
-I'm a **mobile app developer** with deep expertise in building high-quality apps for iOS and Android.  
-From architecture design to pixel-perfect UI, I focus on creating scalable and maintainable mobile experiences.
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-</p>
 
+A **Fullstack Dart Specialist** who builds seamless experiences across mobile, web, and backend —  
+with a single language: Dart.
+
+I design modular architectures and push the boundaries of what Dart can do.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jaspr-%23005588.svg?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Serverpod-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+</p>
 
 
 #
