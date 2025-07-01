@@ -28,6 +28,7 @@ I design modular architectures and push the boundaries of what Dart can do.
 
 | Type | Platform | Package | Contribution |
 |------|----------|---------|-------------|
+| Fix | Dart | **langchain_dart** | [fix(tools): Add multi-LLM compatibility for Tool.fromFunction getInputFromJson](https://github.com/davidmigloz/langchain_dart/pull/738) |
 | Fix | Dart | **dart-lang/core** | [Fix StreamGroup.broadcast() close() not completing when streams close.](https://github.com/dart-lang/core/pull/876) |
 | Fix | Swift | **SwiftLint** | [Ignore UIColor initializers in no_magic_numbers rule issue](https://github.com/realm/SwiftLint/pull/6035) |
 | Fix | Swift | **RxSwift** | [AsyncSequence.asObservable() effect is not as expected](https://github.com/ReactiveX/RxSwift/pull/2662) |
