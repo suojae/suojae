@@ -38,15 +38,3 @@ I design modular architectures and push the boundaries of what Dart can do.
 | Refactor | Flutter | **Melos** | [optimize clean command by precomputing paths to clean](https://github.com/invertase/melos/pull/855) |
 | Feature | Flutter | **Drift** | [Add dispose method to DatabaseTracker for resource management](https://github.com/simolus3/drift/pull/3420) |
 | Fix | TypeScript | **Terraform CDK** | [Correct the concat method in TokenizedStringFragments](https://github.com/hashicorp/terraform-cdk/pull/3772) |
-
-
-#
-
-### Published Side Project
-
-
-| Released In | Built With | iOS | Android | Description |
-|----------|------------|-----------|------------|-------------|
-| WIP | Flutter, Dart | [Rubbit](https://github.com/suojae/rubbit_client) | | A personal project: mobile diary app that uses GPT API
-| 2025.04  | Flutter, Dart |[궁그미](https://apps.apple.com/kr/app/%EA%B6%81%EA%B7%B8%EB%AF%B8/id6743760411?l)| [궁그미](https://play.google.com/store/apps/details?id=com.lazyheroez.loci) | Joined a team project to build a location-based info sharing app.
-| 2023.12 | UIKit, Swift |[찾아줄개](https://apps.apple.com/kr/app/%EC%B0%BE%EC%95%84%EC%A4%84%EA%B0%9C/id6471409178?l)| – | Joined a team project to build an SNS app for finding lost pets.
