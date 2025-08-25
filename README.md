@@ -47,6 +47,6 @@ I design modular architectures and push the boundaries of what Dart can do.
 
 | Period | Built With | iOS | Android | Description |
 |---|---|---|---|---|
-| 25.08 - | Flutter, Dart | [냉장고파먹기](https://apps.apple.com/kr/app/%EB%83%89%EC%9E%A5%EA%B3%A0%ED%8C%8C%EB%A8%B9%EA%B8%B0-%EB%A0%88%EC%8B%9C%ED%94%BC-%EB%83%89%EC%9E%A5%EA%B3%A0-%EA%B4%80%EB%A6%AC-%EC%A7%91%EB%B0%A5/id1623066651) | [냉장고파먹기](https://play.google.com/store/apps/details?id=com.lazyheroes.erfe&hl=ko) | Joined a team project to build a recipe app. |
+| 25.08 - | Flutter, Dart | [냉장고파먹기](https://apps.apple.com/kr/app/%EB%83%89%EC%9E%A5%EA%B3%A0%ED%8C%8C%EB%A8%B9%EA%B8%B0-%EB%A0%88%EC%8B%9C%ED%94%BC-%EB%83%89%EC%9E%A5%EA%B3%A0-%EA%B4%80%EB%A6%AC-%EC%A7%91%EB%B0%A5/id1623066651) | [냉장고파먹기](https://play.google.com/store/apps/details?id=com.lazyheroes.erfe&hl=ko) | Joined an existing project to maintain and improve a recipe app. |
 | 25.02 - | Flutter, Dart | [궁그미](https://apps.apple.com/kr/app/%EA%B6%81%EA%B7%B8%EB%AF%B8/id6743760411?l) | [궁그미](https://play.google.com/store/apps/details?id=com.lazyheroez.loci) | Joined a team project to build a location-based info sharing app |
 | 23.12 - | UIKit, Swift | [찾아줄개](https://apps.apple.com/kr/app/%EC%B0%BE%EC%95%84%EC%A4%84%EA%B0%9C/id6471409178?l) | - | Joined a team project to build an SNS app for finding lost pets |
