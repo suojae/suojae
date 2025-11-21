@@ -1,9 +1,5 @@
 ### Hi, I'm Suojae 👋  
 
-모바일 프론트는 Flutter, 웹프론트는 React, 백엔드는 Python으로 개발하고 있습니다.
-
-Developing mobile with Flutter, web with React, and backend with Python.
-
 #
 
 ### Open Source
