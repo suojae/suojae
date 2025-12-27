@@ -29,8 +29,6 @@
 
 ### 오픈 소스
 
-#### Contributions
-
 
 | Type | Platform | Package | Contribution |
 |------|----------|---------|-------------|
