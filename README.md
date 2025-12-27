@@ -1,8 +1,12 @@
 ### Hi, I'm Suojae 👋  
 
+안녕하세요! 데이터로 문제를 정의하고, 기술로 해답을 제시하는 엔지니어 수오재입니다.<br/>
+**모바일 프론트**와 **GA4/BigQuery 파이프라인**을 통해 추상적인 사용자 경험을 구체적인 비즈니스 지표로 해석하여<br/>
+데이터로 포착한 비즈니스 문제를 기술적으로 해결합니다.
+
 #
 
-### Open Source
+### 오픈 소스
 
 #### 📦 Maintainer  
 
@@ -29,11 +33,18 @@
 
 #
 
-### Published Side Project
+### 실무 프로젝트
 
-
-| Period | Built With | iOS | Android | Description |
+| 기간 | 기술 스택 | iOS | Android | 설명 |
 |---|---|---|---|---|
-| 25.08 - | Flutter, Dart | [냉장고파먹기](https://apps.apple.com/kr/app/%EB%83%89%EC%9E%A5%EA%B3%A0%ED%8C%8C%EB%A8%B9%EA%B8%B0-%EB%A0%88%EC%8B%9C%ED%94%BC-%EB%83%89%EC%9E%A5%EA%B3%A0-%EA%B4%80%EB%A6%AC-%EC%A7%91%EB%B0%A5/id1623066651) | [냉장고파먹기](https://play.google.com/store/apps/details?id=com.lazyheroes.erfe&hl=ko) | Joined an existing project to maintain and improve a recipe app. |
-| 25.02 - | Flutter, Dart | [궁그미](https://apps.apple.com/kr/app/%EA%B6%81%EA%B7%B8%EB%AF%B8/id6743760411?l) | [궁그미](https://play.google.com/store/apps/details?id=com.lazyheroez.loci) | Joined a team project to build a location-based info sharing app |
-| 23.12 - | UIKit, Swift | [찾아줄개](https://apps.apple.com/kr/app/%EC%B0%BE%EC%95%84%EC%A4%84%EA%B0%9C/id6471409178?l) | - | Joined a team project to build an SNS app for finding lost pets |
+| 25.10 - | Flutter, Native(iOS, Android)<br/>GA4, BigQuery| [오르비 클래스](https://apps.apple.com/kr/app/%EC%98%A4%EB%A5%B4%EB%B9%84/id621221859) | [오르비 클래스](https://play.google.com/store/apps/details?id=com.move.orbiclass&hl=ko) | 인터넷 강의 스트리밍 서비스 앱 개발 및 운영<br/>GA4/BigQuery 데이터 파이프라인 구축 및 분석 |
+
+#
+
+### 사이드 프로젝트
+
+| 기간 | 기술 스택 | iOS | Android | 설명 |
+|---|---|---|---|---|
+| 25.08 - | Flutter, Dart | [냉장고파먹기](https://apps.apple.com/kr/app/%EB%83%89%EC%9E%A5%EA%B3%A0%ED%8C%8C%EB%A8%B9%EA%B8%B0-%EB%A0%88%EC%8B%9C%ED%94%BC-%EB%83%89%EC%9E%A5%EA%B3%A0-%EA%B4%80%EB%A6%AC-%EC%A7%91%EB%B0%A5/id1623066651) | [냉장고파먹기](https://play.google.com/store/apps/details?id=com.lazyheroes.erfe&hl=ko) | 기존 레시피 앱 프로젝트에 합류하여 유지보수 및 고도화 |
+| 25.02 - | Flutter, Dart | [궁그미](https://apps.apple.com/kr/app/%EA%B6%81%EA%B7%B8%EB%AF%B8/id6743760411?l) | [궁그미](https://play.google.com/store/apps/details?id=com.lazyheroez.loci) | 위치 기반 정보 공유 서비스 팀 빌딩 및 앱 개발 |
+| 23.12 - 25.09| UIKit, Swift | [찾아줄개](https://apps.apple.com/kr/app/%EC%B0%BE%EC%95%84%EC%A4%84%EA%B0%9C/id6471409178?l) | - | 반려동물 실종 방지 및 찾기 커뮤니티 앱 개발 |
