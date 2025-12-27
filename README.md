@@ -38,7 +38,7 @@
 | 기간 | 기술 스택 | iOS | Android | 설명 |
 |---|---|---|---|---|
 | 25.10 - | Flutter, Native(iOS, Android)<br/>GA4, BigQuery| [오르비 클래스](https://apps.apple.com/kr/app/%EC%98%A4%EB%A5%B4%EB%B9%84/id621221859) | [오르비 클래스](https://play.google.com/store/apps/details?id=com.move.orbiclass&hl=ko) | 인터넷 강의 스트리밍 서비스 앱 개발 및 운영<br/>GA4/BigQuery 데이터 파이프라인 구축 및 분석 |
-| 25.05 - 25.09 | Flutter, Serverpod | [유니북](https://apps.apple.com/kr/app/unibook-%EC%9C%A0%EB%8B%88%EB%B6%81-%EB%8C%80%ED%95%99%EA%B5%90%EC%9E%AC-%EC%A0%84%EB%AC%B8-%EC%A0%84%EC%9E%90%EC%B1%85-%ED%94%8C%EB%9E%AB%ED%8F%BC/id6744966112) | [유니북](https://play.google.com/store/apps/details?id=im.laputa.kobic&hl=ko) | 대학교재 전자책 플랫폼 풀스택 개발 |
+| 25.05 - 25.09 | Flutter, Serverpod | [유니북](https://apps.apple.com/kr/app/unibook-%EC%9C%A0%EB%8B%88%EB%B6%81-%EB%8C%80%ED%95%99%EA%B5%90%EC%9E%AC-%EC%A0%84%EB%AC%B8-%EC%A0%84%EC%9E%90%EC%B1%85-%ED%94%8C%EB%9E%AB%ED%8F%BC/id6744966112) | [유니북](https://play.google.com/store/apps/details?id=im.laputa.kobic&hl=ko) | 대학교재 전자책 뷰어앱 및 플랫폼 개발 |
 
 
 #
