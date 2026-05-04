@@ -1,6 +1,6 @@
 ### Hi, I'm Suojae 👋
 
-안녕하세요, 데이터로 문제를 정의하고, 기술로 해답을 제시하는 개발자 수오재입니다. Flutter를 메인으로, 필요한 부분만 ios/android 네이티브로 동적인 부분은 WebView로 하는 것이 가장 이상적인 앱 개발이라 생각하며, 이러한 구조 설계와 구현에 집중하고 있습니다.
+안녕하세요, 데이터로 문제를 정의하고, 기술로 해답을 제시하는 개발자 수오재입니다. Flutter를 메인으로, 동적인 부분은 WebView로, 필요한 부분만 ios/android 네이티브로 하는 것이 가장 이상적인 앱 개발이라 생각하며, 이러한 구조 설계와 구현에 집중하고 있습니다.
 
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
