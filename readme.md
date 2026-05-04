@@ -7,9 +7,3 @@
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white)
 ![GA4](https://img.shields.io/badge/GA4-E37400?style=flat&logo=googleanalytics&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white)
-
-
-#### 주요 업무 경험
-1. `Flutter` 기반 모바일 앱 개발
-2. `GA4`/`BigQuery` 분석과 `Firebase` A/B 테스트 운영
-3. `Flutter`-네이티브 및 `Flutter`-`WebView` 간 양방향 브릿징
