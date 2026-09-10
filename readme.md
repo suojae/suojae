@@ -22,3 +22,19 @@ Flutter + React/Next.js 하이브리드 아키텍처 설계와 A/B 테스트를 
 | **냉장고파먹기** | 냉장고 속 재료로 레시피 추천, 유통기한 관리 | Flutter | [App Store](https://apps.apple.com/kr/app/id1623066651) · [Google Play](https://play.google.com/store/apps/details?id=com.wisland.naengpa&hl=ko) |
 | **궁그미** | 위치 기반 실시간 정보 공유 Q&A | Flutter | [App Store](https://apps.apple.com/kr/app/id6743760411) · [Google Play](https://play.google.com/store/apps/details?id=com.lazyheroez.loci) |
 | **뉴스크래커** | AI 요약 뉴스, 매일 Top 5 브리핑 | Flutter | [App Store](https://apps.apple.com/kr/app/id6746927652) · [Google Play](https://play.google.com/store/apps/details?id=com.newscracker.news_app) |
+
+
+| 타입 | 언어/프레임워크 | 라이브러리 | 컨트리뷰션 내용 |
+|------|----------|---------|-------------|
+| Feature | Flutter | **flutter/packages** | [[vector_graphics] add imageBuilder property to VectorGraphic](https://github.com/flutter/packages/pull/11094) |
+| Feature | Flutter | **flutter/packages** | [[flutter_svg] add imageBuilder property to SvgPicture](https://github.com/flutter/packages/pull/11615) |
+| Fix | Dart | **langchain_dart** | [fix(tools): Add multi-LLM compatibility for Tool.fromFunction getInputFromJson](https://github.com/davidmigloz/langchain_dart/pull/738) |
+| Fix | Dart | **dart-lang/core** | [Fix StreamGroup.broadcast() close() not completing when streams close.](https://github.com/dart-lang/core/pull/876) |
+| Fix | Swift | **SwiftLint** | [Ignore UIColor initializers in no_magic_numbers rule issue](https://github.com/realm/SwiftLint/pull/6035) |
+| Fix | Swift | **RxSwift** | [AsyncSequence.asObservable() effect is not as expected](https://github.com/ReactiveX/RxSwift/pull/2662) |
+| Fix | Flutter | **Dio** | [Resolve ListParam equality issue for caching identical requests](https://github.com/cfug/dio/pull/2366) |
+| Feature | Flutter | **FpDart** | [Add fold method to TaskEither](https://github.com/SandroMaglione/fpdart/pull/163) |
+| Refactor | Flutter | **RxDart** | [replaced Row + Column layout with ListTile](https://github.com/ReactiveX/rxdart/pull/789) |
+| Refactor | Flutter | **Melos** | [optimize clean command by precomputing paths to clean](https://github.com/invertase/melos/pull/855) |
+| Feature | Flutter | **Drift** | [Add dispose method to DatabaseTracker for resource management](https://github.com/simolus3/drift/pull/3420) |
+| Fix | TypeScript | **Terraform CDK** | [Correct the concat method in TokenizedStringFragments](https://github.com/hashicorp/terraform-cdk/pull/3772) |
