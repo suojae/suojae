@@ -16,7 +16,7 @@ Flutter + React/Next.js 하이브리드 아키텍처 설계와 A/B 테스트를 
 |---|---|---|---|
 | **오르비** | 대한민국 1등 수능 커뮤니티 | Flutter · React WebView | [App Store](https://apps.apple.com/kr/app/id621221859) · [Google Play](https://play.google.com/store/apps/details?id=kr.orbi.android) |
 | **오르비 클래스** | 수능 인터넷 강의 App | Flutter · React WebView | [App Store](https://apps.apple.com/kr/app/id6743438064) · [Google Play](https://play.google.com/store/apps/details?id=com.move.orbiclass) |
-| **오르비 과외시장** | 검증된 1:1 과외 매칭 | Flutter · Next.js WebView | [App Store](https://apps.apple.com/kr/app/%EC%98%A4%EB%A5%B4%EB%B9%84-%EA%B3%BC%EC%99%B8%EC%8B%9C%EC%9E%A5-%EA%B2%80%EC%A6%9D%EB%90%9C-1-1-%EA%B3%BC%EC%99%B8-%EB%A7%A4%EC%B9%AD/id6777892503) · [Google Play](https://play.google.com/store/apps/details?id=kr.orbi.tutor) |
+| **오르비 과외시장** | 검증된 1:1 과외 매칭 | Flutter · Next.js WebView | [App Store](https://apps.apple.com/kr/app/%EC%98%A4%EB%A5%B4%EB%B9%84-%EA%B3%BC%EC%99%B8%EC%8B%9C%EC%9E%A5-%EA%B2%80%EC%A6%9D%EB%90%9C-1-1-%EA%B3%BC%EC%99%B8-%EB%A7%A4%EC%B9%AD/id6777892503) · [Google Play](https://play.google.com/store/apps/details?id=kr.orbi.tutormarket) |
 | **오르비 과외시장** | 검증된 1:1 과외 매칭 | React · Next.js | [Web](https://tutor.orbi.kr/) | | 
 | **유니북** | 대학 서적 EBook 뷰어앱 | Flutter | [App Store](https://apps.apple.com/kr/app/unibook-%EC%9C%A0%EB%8B%88%EB%B6%81-%EB%8C%80%ED%95%99%EA%B5%90%EC%9E%AC-%EC%A0%84%EB%AC%B8-%EC%A0%84%EC%9E%90%EC%B1%85-%ED%94%8C%EB%9E%AB%ED%8F%BC/id6744966112) · [Google Play](https://play.google.com/store/apps/details?id=im.laputa.kobic&hl=ko) |
 | **냉장고파먹기** | 냉장고 속 재료로 레시피 추천, 유통기한 관리 | Flutter | [App Store](https://apps.apple.com/kr/app/id1623066651) · [Google Play](https://play.google.com/store/apps/details?id=com.wisland.naengpa&hl=ko) |
