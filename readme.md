@@ -24,7 +24,7 @@ Flutter + React/Next.js 하이브리드 아키텍처 설계와 A/B 테스트를 
 | **뉴스크래커** | AI 요약 뉴스, 매일 Top 5 브리핑 | Flutter | [App Store](https://apps.apple.com/kr/app/id6746927652) · [Google Play](https://play.google.com/store/apps/details?id=com.newscracker.news_app) |
 
 
-| 타입 | 언어/프레임워크 | 라이브러리 | 컨트리뷰션 내용 |
+| 구분 | 기술 스택 | 라이브러리 | 기여 내용 |
 |------|----------|---------|-------------|
 | Feature | Flutter | **flutter/packages** | [[vector_graphics] add imageBuilder property to VectorGraphic](https://github.com/flutter/packages/pull/11094) |
 | Feature | Flutter | **flutter/packages** | [[flutter_svg] add imageBuilder property to SvgPicture](https://github.com/flutter/packages/pull/11615) |
