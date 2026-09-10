@@ -30,7 +30,7 @@ Flutter + React/Next.js 하이브리드 아키텍처 설계와 A/B 테스트를 
 | Feature | Flutter | **flutter/packages** | [[flutter_svg] add imageBuilder property to SvgPicture](https://github.com/flutter/packages/pull/11615) |
 | Fix | Flutter | **Dio** | [fix: use readyState for accurate timeout type detection](https://github.com/cfug/dio/pull/2491) |
 | Fix | Flutter | **Dio** | [Resolve ListParam equality issue for caching identical requests](https://github.com/cfug/dio/pull/2366) |
-| Fix | Dart | **langchain_dart** | [fix(tools): Add multi-LLM compatibility for Tool.fromFunction getInputFromJson](https://github.com/davidmigloz/langchain_dart/pull/738) |
+| Fix | Dart | **langchain_dart** | [Add multi-LLM compatibility for Tool.fromFunction](https://github.com/davidmigloz/langchain_dart/pull/738) |
 | Fix | Dart | **dart-lang/core** | [Fix StreamGroup.broadcast() close() not completing when streams close.](https://github.com/dart-lang/core/pull/876) |
 | Feature | Flutter | **FpDart** | [Add fold method to TaskEither](https://github.com/SandroMaglione/fpdart/pull/163) |
 | Refactor | Flutter | **RxDart** | [replaced Row + Column layout with ListTile](https://github.com/ReactiveX/rxdart/pull/789) |
