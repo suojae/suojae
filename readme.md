@@ -21,7 +21,7 @@ Flutter + React/Next.js 하이브리드 아키텍처 설계와 A/B 테스트를 
 | **유니북** | 대학 서적 EBook 뷰어앱 | Flutter | [App Store](https://apps.apple.com/kr/app/unibook-%EC%9C%A0%EB%8B%88%EB%B6%81-%EB%8C%80%ED%95%99%EA%B5%90%EC%9E%AC-%EC%A0%84%EB%AC%B8-%EC%A0%84%EC%9E%90%EC%B1%85-%ED%94%8C%EB%9E%AB%ED%8F%BC/id6744966112) · [Google Play](https://play.google.com/store/apps/details?id=im.laputa.kobic&hl=ko) |
 | **냉장고파먹기** | 냉장고 속 재료로 레시피 추천, 유통기한 관리 | Flutter | [App Store](https://apps.apple.com/kr/app/id1623066651) · [Google Play](https://play.google.com/store/apps/details?id=com.wisland.naengpa&hl=ko) |
 | **궁그미** | 위치 기반 실시간 정보 공유 Q&A | Flutter | [App Store](https://apps.apple.com/kr/app/id6743760411) · [Google Play](https://play.google.com/store/apps/details?id=com.lazyheroez.loci) |
-| **Beni AI** | AI 캐릭터와 실시간 음성·영상 통화 | Flutter · Live2D · WebRTC | [App Store](https://apps.apple.com/kr/app/beni-ai/id6758319105) |
+| **Beni AI** | AI 캐릭터와 실시간 음성·영상 통화 | Flutter · WebRTC | [App Store](https://apps.apple.com/kr/app/beni-ai/id6758319105) |
 | **뉴스크래커** | AI 요약 뉴스, 매일 Top 5 브리핑 | Flutter | [App Store](https://apps.apple.com/kr/app/id6746927652) · [Google Play](https://play.google.com/store/apps/details?id=com.newscracker.news_app) |
 
 
