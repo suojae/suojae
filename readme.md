@@ -22,7 +22,7 @@ Flutter + React/Next.js 하이브리드 아키텍처 설계와 A/B 테스트를 
 | **냉장고파먹기** | 냉장고 속 재료로 레시피 추천, 유통기한 관리 | Flutter | [App Store](https://apps.apple.com/kr/app/id1623066651) · [Google Play](https://play.google.com/store/apps/details?id=com.wisland.naengpa&hl=ko) |
 | **궁그미** | 위치 기반 실시간 정보 공유 Q&A | Flutter | [App Store](https://apps.apple.com/kr/app/id6743760411) · [Google Play](https://play.google.com/store/apps/details?id=com.lazyheroez.loci) |
 | **Beni AI** | AI 캐릭터와 실시간 음성·영상 통화 | Flutter · WebRTC | [App Store](https://apps.apple.com/kr/app/beni-ai/id6758319105) |
-| **뉴스크래커** | AI 요약 뉴스, 매일 Top 5 브리핑 | Flutter | [App Store](https://apps.apple.com/kr/app/id6746927652) · [Google Play](https://play.google.com/store/apps/details?id=com.newscracker.news_app) |
+| **뉴스크래커** | AI 요약 뉴스, 매일 Top 5 브리핑 | Flutter | [App Store](https://apps.apple.com/kr/app/%EB%89%B4%EC%8A%A4%ED%81%AC%EB%9E%98%EC%BB%A4-%EB%A7%A4%EC%9D%BC-%EB%B3%B4%EB%8A%94-%EC%9A%94%EC%95%BD-%EB%89%B4%EC%8A%A4-ai-%EB%B8%8C%EB%A6%AC%ED%95%91/id6746927652) · [Google Play](https://play.google.com/store/apps/details?id=com.newscracker.news_app) |
 
 
 | 구분 | 기술 스택 | 라이브러리 | 기여 내용 |
