@@ -20,7 +20,6 @@
 
 | 구분 | 기술 스택 | 라이브러리 | 기여 내용 |
 |------|----------|---------|-------------|
-| Fix | Swift | **SwiftLint** | [Fix false positives for UIColor initializers in no_magic_numbers](https://github.com/realm/SwiftLint/pull/6035) |
 | Feature | Flutter | **flutter/packages** | [[vector_graphics] add imageBuilder property to VectorGraphic](https://github.com/flutter/packages/pull/11094) |
 | Feature | Flutter | **flutter/packages** | [[flutter_svg] add imageBuilder property to SvgPicture](https://github.com/flutter/packages/pull/11615) |
 | Fix | Dart | **dart-lang/core** | [Fix StreamGroup.broadcast() close() not completing when streams close.](https://github.com/dart-lang/core/pull/876) |
